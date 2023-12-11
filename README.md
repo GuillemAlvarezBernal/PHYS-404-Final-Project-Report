@@ -1,1 +1,3 @@
 # PHYS-404-Final-Project-Report
+
+The relationship between atmospheric phenomena is a key focus in meteorological studies, particularly in understanding cloud dynamics and wind behavior. Cloud movement in the sky is influenced by various factors, with wind velocity playing a crucial role in shaping their distribution and path. This project aims to clarify the correlation between cloud movement and wind velocity by implementing a Centroid-Based object tracking system. This is a technique to identify and localize the objects of interest by drawing bounding boxes around them in each frame. Then generating a unique ID for each detected object, tracking the objects as they move around in a video while maintaining the ID assignment.
